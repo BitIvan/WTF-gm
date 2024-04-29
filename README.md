@@ -428,6 +428,8 @@ Trustless: 无需信任。在区块链环境中，参与者不需要互相信任
 
 Telegram: 非正式简称TG或电报,Telegram是一款加密即时通信软件。相比于其他同类产品。Telegram最大的特色是他的“安全性”,能够实现端到端的加密通讯。
 
+TGE：Token Generation Event 代币生成活动
+
 ## U
 Up Only:一直上涨（大家的美好愿望）。
 
